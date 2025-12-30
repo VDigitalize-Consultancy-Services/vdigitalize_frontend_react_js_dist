@@ -1,0 +1,10 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Purple section -->
+  <path d="M20 10 L80 10 A10 10 0 0 1 90 20 L90 50 A10 10 0 0 1 80 60 L50 60 L20 90 L20 20 A10 10 0 0 1 20 10 Z" fill="#7C3AED"/>
+  
+  <!-- Yellow section -->
+  <path d="M10 40 L50 40 L50 60 L80 60 L50 90 L20 90 L20 50 A10 10 0 0 1 10 40 Z" fill="#F59E0B"/>
+  
+  <!-- White inner circle -->
+  <circle cx="65" cy="35" r="15" fill="white"/>
+</svg>
